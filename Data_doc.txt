@@ -1,0 +1,4 @@
+Weather Stats for - KANDY  || 22 Jun 2021 | 02:16:04 AMCurrent temperature is: 20.31 deg C
+Current weather desc  :broken clouds
+Current Humidity      :94% 
+Current wind speed    :1.47kmph
